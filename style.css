@@ -1,0 +1,17 @@
+form {
+    width: 500px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+    margin-top: 200px;
+    border: 2px solid blue;
+    padding: 40px 20px;
+}
+
+input {
+    border: none;
+    border-bottom: 2px solid blue;
+    font-size: 24pt;
+}
